@@ -5,7 +5,7 @@ Welcome to my collection of networking lab files! This repository contains hands
 
 ## Table of Contents
 
-dcp1.pkt
+[dcp1.pkt](./dhcp1.pkt)
 default_routing.pkt
 dns server.pkt
 eigrp asgn.pkt
