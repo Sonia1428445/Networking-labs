@@ -5,15 +5,29 @@ Welcome to my collection of networking lab files! This repository contains hands
 
 ## Table of Contents
 
-- [Project 1: Subnetting Mastery](./project1-subnetting)
-- [Project 2: VLAN Configuration](./project2-vlan)
-- [Project 3: Routing Protocols](./project3-routing)
-- [project 4: Eigrp Protocol](./project4-Eigrp)
-- [Project 5: Switching](./project5-switching)
-- [project 6: Trunking Protocol](./project6-VLANTrunkingProtocol)
-- [project 7: OSPF](./project7-OSPF)
-- [project 8: Firewalls](./project8-firewalls)
-- [Project 9: DNS server](./project9-DnsServer)
+dcp1.pkt
+default_routing.pkt
+dns server.pkt
+eigrp asgn.pkt
+eigrp lab.pkt
+eigrp prtc.pkt
+layer-3 switch lab 1.pkt
+layer-3 switch lab 2.pkt
+ospf ass.pkt
+password.pkt
+port security.pkt
+practice 2.pkt
+switch vlan broadcast 1.pkt
+switching.pkt
+test 2.pkt
+trunking lab 1.pkt
+trunking lab 2.pkt
+vlan lab 3.pkt
+vlan lab 4.pkt
+vlan lab 5.pkt
+vlan lab-1.pkt
+vlan lab-2.pkt
+vlan vtp modes 2.pkt
 
 ## Description
 
